@@ -1,6 +1,7 @@
 [
   {
+    "Name": "Pika",
     "InternalName": "Pika",
-    "Name": "Pika"
+    "AssemblyVersion": "1.0.0.0"
   }
 ]
